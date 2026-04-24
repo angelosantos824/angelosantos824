@@ -22,4 +22,4 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angeloisrodrigues-pixel&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
