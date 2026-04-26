@@ -90,8 +90,6 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 ---
 
 ## 📂 Estrutura do Projeto
-
-```
 text
 ├── imagem/          # Assets visuais (Logos, Favicons e Fotos)
 ├── index.html       # Página Principal (Hero e Visão Geral)
@@ -100,5 +98,3 @@ text
 ├── contato.html     # Portal de Propostas e Orçamentos
 ├── style.css        # Motor visual do projeto
 └── script.js        # Lógica de animações e envios
-
----
