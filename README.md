@@ -1,5 +1,5 @@
 ### 📊 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)](https://teams.microsoft.com/l/message/19:4ae952b122c348a18959b3876ba35a29@thread.v2/1777047445568?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 # Olá, eu sou o Angelo Santos! 👋
 
