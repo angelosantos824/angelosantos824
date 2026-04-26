@@ -1,3 +1,6 @@
+### 📊 Estatísticas do GitHub
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
+
 # Olá, eu sou o Angelo Santos! 👋
 
 ### 👨‍💻 Desenvolvedor em Construção | Apaixonado por Tecnologia
@@ -99,6 +102,3 @@ text
 └── script.js        # Lógica de animações e envios
 
 ---
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
