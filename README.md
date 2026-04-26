@@ -88,7 +88,8 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 
 ## 📂 Estrutura do Projeto
 
-```text
+```
+text
 ├── imagem/          # Assets visuais (Logos, Favicons e Fotos)
 ├── index.html       # Página Principal (Hero e Visão Geral)
 ├── servicos.html    # Detalhamento da Expertise Tech
@@ -97,5 +98,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 ├── style.css        # Motor visual do projeto
 └── script.js        # Lógica de animações e envios
 
+---
+
 ### 📊 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
