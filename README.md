@@ -1,5 +1,4 @@
-### 📊 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![### 📊 Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 # Olá, eu sou o Angelo Santos! 👋
 
