@@ -1,4 +1,5 @@
 ![### 📊 Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelosantos824&layout=compact&theme=dark)
+...
 
 # Olá, eu sou o Angelo Santos! 👋
 
