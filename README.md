@@ -96,6 +96,18 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<br/>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=angelosantos824&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=angelosantos824&layout=compact&theme=tokyonight" />
 </div>
