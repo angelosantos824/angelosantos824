@@ -104,7 +104,7 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 
 ### 📫 Vamos conectar?
 - 📍 Localização: Aveiro, Portugal
-- 💻 [[LinkedIn:]] (https://www.linkedin.com/in/angelo-santos-45680621/)
+- 💻 [LinkedIn](https://www.linkedin.com/in/angelo-santos-45680621/)
 - ✉️ Email: angelo_rsantos@hotmail.com
 
 ---
