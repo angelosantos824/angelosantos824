@@ -99,7 +99,7 @@ text
 ├── style.css        # Motor visual do projeto
 └── script.js        # Lógica de animações e envios
 
-Psicanalista - Projeto de Bem-Estar Mental
+🧠 Psicanalista - Projeto de Bem-Estar Mental
 O Psicanalista é um sistema projetado para auxiliar profissionais da saúde mental e pessoas interessadas no autoconhecimento. Este projeto visa conectar psicanalistas com seus clientes, oferecendo recursos para gestão de consultas e conteúdo educativo.
 
 🚀 Funcionalidades
