@@ -22,7 +22,6 @@ Desenvolvedor apaixonado por transformar lógica em soluções visuais e automa�
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white)
 
-*
 **Ferramentas**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -31,10 +30,10 @@ Desenvolvedor apaixonado por transformar lógica em soluções visuais e automa�
 ![Draw.io](https://img.shields.io/badge/draw.io-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-%23EF2424.svg?style=for-the-badge&logo=anydesk&logoColor=white)
----
+
 
 ### 🚀 Projetos em Destaque
-
+---
 #### 🧠 Sistema Psicanalista (Saúde Mental)
 Agenda Simples e Eficiente:
 
@@ -54,6 +53,7 @@ Sistema de gestão clínica integrado com automação de documentos.
 - **Destaque:** Geração automática de relatórios em Google Docs via Webhooks e processamento de JSON complexo.
 
 #### 🏎️ Doze Car (Stand Automóvel)
+---
 Website premium desenvolvido para um stand de automóveis usados, focado em experiência do utilizador e design "Dark Mode".
 
 ## 🚀 Funcionalidades
@@ -70,6 +70,7 @@ Website premium desenvolvido para um stand de automóveis usados, focado em expe
 
 
 #### ⚡ Usedoze (Agência Digital)
+---
 O projeto foi construído utilizando as melhores práticas de desenvolvimento web moderno:
 
 - **HTML5 Profissional:** Estruturação semântica e otimizada para SEO.
@@ -80,6 +81,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 - **Formspree API:** Integração de formulários de contacto direta com o e-mail.
 
 #### 🍕 Bella Pizza
+---
 O website oficial da **Bella Pizza**, criado para transmitir a essência da verdadeira pizza italiana: massa artesanal, fermentação lenta e o calor do forno a lenha. O design foca-se na experiência visual e no conforto do cliente.
 
 ## ✨ Características Principais
@@ -98,6 +100,7 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 ---
 
 ### 📊 Estatísticas e Atividade
+---
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
