@@ -22,11 +22,15 @@ Desenvolvedor apaixonado por transformar lógica em soluções visuais e automa�
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white)
 
+*
 **Ferramentas**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Draw.io](https://img.shields.io/badge/draw.io-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-%23EF2424.svg?style=for-the-badge&logo=anydesk&logoColor=white)
 ---
 
 ### 🚀 Projetos em Destaque
