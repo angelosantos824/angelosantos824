@@ -1,5 +1,3 @@
-![### 📊 Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelosantos824&layout=compact&theme=dark)
-...
 ## Olá, eu sou o Angelo Santos! 👋
 ### Desenvolvedor Full-Stack em Construção | Aveiro, Portugal 🇵🇹
 
@@ -106,7 +104,7 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 
 ### 📫 Vamos conectar?
 - 📍 Localização: Aveiro, Portugal
-- 💻 LinkedIn: (https://www.linkedin.com/in/angelo-santos-45680621/)
+- 💻 [[LinkedIn:]] (https://www.linkedin.com/in/angelo-santos-45680621/)
 - ✉️ Email: angelo_rsantos@hotmail.com
 
 ---
