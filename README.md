@@ -34,7 +34,7 @@ Desenvolvedor apaixonado por transformar lógica em soluções visuais e automa�
 
 ### 🚀 Projetos em Destaque
 ---
-#### 🧠 Sistema Psicanalista (Saúde Mental)
+## 🧠 Sistema Psicanalista (Saúde Mental)
 Agenda Simples e Eficiente:
 
 Gerenciamento de horários de atendimento.
@@ -52,7 +52,7 @@ Sistema de gestão clínica integrado com automação de documentos.
 - **Tech Stack:** HTML/CSS/JS + Supabase (DB & Auth) + Make.com.
 - **Destaque:** Geração automática de relatórios em Google Docs via Webhooks e processamento de JSON complexo.
 
-#### 🏎️ Doze Car (Stand Automóvel)
+## 🏎️ Doze Car (Stand Automóvel)
 ---
 Website premium desenvolvido para um stand de automóveis usados, focado em experiência do utilizador e design "Dark Mode".
 
@@ -69,7 +69,7 @@ Website premium desenvolvido para um stand de automóveis usados, focado em expe
 - Google Maps API (Embed)
 
 
-#### ⚡ Usedoze (Agência Digital)
+## ⚡ Usedoze (Agência Digital)
 ---
 O projeto foi construído utilizando as melhores práticas de desenvolvimento web moderno:
 
@@ -80,7 +80,7 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 - **JavaScript (Vanilla):** Lógica de interatividade e integração de APIs.
 - **Formspree API:** Integração de formulários de contacto direta com o e-mail.
 
-#### 🍕 Bella Pizza
+## 🍕 Bella Pizza
 ---
 O website oficial da **Bella Pizza**, criado para transmitir a essência da verdadeira pizza italiana: massa artesanal, fermentação lenta e o calor do forno a lenha. O design foca-se na experiência visual e no conforto do cliente.
 
