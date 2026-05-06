@@ -98,15 +98,15 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelosantos824&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosantos824&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=angelosantos824&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=angelosantos824&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
 ### 📫 Vamos conectar?
 - 📍 Localização: Aveiro, Portugal
-- 💻 LinkedIn: [[Teu Link Aqui]](https://www.linkedin.com/in/angelo-santos-45680621/)
+- 💻 LinkedIn: (https://www.linkedin.com/in/angelo-santos-45680621/)
 - ✉️ Email: angelo_rsantos@hotmail.com
 
 ---
