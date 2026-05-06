@@ -10,14 +10,6 @@ Desenvolvedor apaixonado por transformar lógica em soluções visuais e automa�
 - 🛠️ Atualmente focado em dominar HTML, CSS, JAVA, SQL e Git/GitHub.
 - 🌎 Localizado em: Aveiro - Portugal.
 
-### 🛠️ Tecnologias que utilizo:
-<div inline>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
 ---
 
 ### 🛠️ O Meu Arsenal Tecnológico
@@ -114,7 +106,7 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 
 ### 📫 Vamos conectar?
 - 📍 Localização: Aveiro, Portugal
-- 💻 LinkedIn: [Teu Link Aqui]
+- 💻 LinkedIn: [[Teu Link Aqui]](https://www.linkedin.com/in/angelo-santos-45680621/)
 - ✉️ Email: angelo_rsantos@hotmail.com
 
 ---
