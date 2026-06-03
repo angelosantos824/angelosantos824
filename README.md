@@ -34,7 +34,10 @@ Desenvolvedor apaixonado por transformar lógica em soluções visuais e automa�
 
 ### 🚀 Projetos em Destaque
 ---
+
+
 ## 🧠 Sistema Psicanalista (Saúde Mental)
+---
 Agenda Simples e Eficiente:
 
 Gerenciamento de horários de atendimento.
@@ -68,18 +71,6 @@ Website premium desenvolvido para um stand de automóveis usados, focado em expe
 - JavaScript (Manipulação de DOM e Modals)
 - Google Maps API (Embed)
 
-
-## ⚡ Usedoze (Agência Digital)
----
-O projeto foi construído utilizando as melhores práticas de desenvolvimento web moderno:
-
-- **HTML5 Profissional:** Estruturação semântica e otimizada para SEO.
-- **CSS3 Avançado:** - Conceitos de *Glassmorphism* (efeitos de vidro e transparência).
-  - Design responsivo para todos os dispositivos.
-  - Animações fluidas com `Keyframes`.
-- **JavaScript (Vanilla):** Lógica de interatividade e integração de APIs.
-- **Formspree API:** Integração de formulários de contacto direta com o e-mail.
-
 ## 🍕 Bella Pizza
 ---
 O website oficial da **Bella Pizza**, criado para transmitir a essência da verdadeira pizza italiana: massa artesanal, fermentação lenta e o calor do forno a lenha. O design foca-se na experiência visual e no conforto do cliente.
@@ -97,8 +88,8 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 - **Google Fonts** (Playfair Display & Poppins)
 - **Unsplash API** (Imagens de alta resolução)
 
-- ## 🍽️ Restaurante Roxinho (Canto do Roxinho)
 
+## 🍽️ Restaurante Roxinho (Canto do Roxinho)
 ---
 
 Website desenvolvido para o tradicional restaurante **Canto do Roxinho**, localizado em Manacapuru/AM, com foco em experiência visual, identidade regional e navegação intuitiva.
@@ -119,10 +110,8 @@ Website desenvolvido para o tradicional restaurante **Canto do Roxinho**, locali
 * Google Maps Embed
 * Responsividade com Flexbox & Grid
 
----
 
 ## 🌆 Manacapuru.com
-
 ---
 
 Projeto web criado com o objetivo de representar a cidade de **Manacapuru/AM** de forma moderna, acessível e informativa, reunindo conteúdos locais, cultura e pontos de interesse.
@@ -142,10 +131,8 @@ Projeto web criado com o objetivo de representar a cidade de **Manacapuru/AM** d
 * Design Responsivo
 * Estrutura SEO Friendly
 
----
 
 ## 💻 DOZEDEV.PT
-
 ---
 
 A **DOZEDEV.PT** é uma marca focada em desenvolvimento web moderno, criação de websites profissionais e soluções digitais personalizadas para empresas e projetos independentes.
@@ -198,6 +185,8 @@ Criador da DOZEDEV.PT
 ---
 
 ### 📫 Vamos conectar?
+---
+
 - 📍 Localização: Aveiro, Portugal
 - 💻 [LinkedIn](https://www.linkedin.com/in/angelo-santos-45680621/)
 - ✉️ Email: angelo_rsantos@hotmail.com
