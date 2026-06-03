@@ -97,6 +97,82 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 - **Google Fonts** (Playfair Display & Poppins)
 - **Unsplash API** (Imagens de alta resolução)
 
+- ## 🍽️ Restaurante Roxinho (Canto do Roxinho)
+
+---
+
+Website desenvolvido para o tradicional restaurante **Canto do Roxinho**, localizado em Manacapuru/AM, com foco em experiência visual, identidade regional e navegação intuitiva.
+
+## ✨ Funcionalidades
+
+* **Cardápio Digital:** Organização moderna de pratos, bebidas e especialidades regionais.
+* **Galeria Responsiva:** Exibição de fotos do restaurante, padaria e salão de festas.
+* **Google Maps Integrado:** Localização rápida e personalizada do estabelecimento.
+* **Contato Inteligente:** Ligações rápidas para WhatsApp e formulários de atendimento.
+* **Design Responsivo:** Interface adaptada para telemóveis, tablets e computadores.
+
+## 🛠️ Tecnologias Utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+* Google Maps Embed
+* Responsividade com Flexbox & Grid
+
+---
+
+## 🌆 Manacapuru.com
+
+---
+
+Projeto web criado com o objetivo de representar a cidade de **Manacapuru/AM** de forma moderna, acessível e informativa, reunindo conteúdos locais, cultura e pontos de interesse.
+
+## 🚀 Características
+
+* **Portal Informativo:** Estrutura preparada para notícias, eventos e conteúdos locais.
+* **Interface Moderna:** Layout responsivo com foco em acessibilidade e navegação simples.
+* **Conteúdo Regional:** Valorização da identidade cultural e turística da cidade.
+* **Performance Otimizada:** Estrutura leve e rápida para dispositivos móveis.
+
+## 🛠️ Tecnologias
+
+* HTML5
+* CSS3
+* JavaScript
+* Design Responsivo
+* Estrutura SEO Friendly
+
+---
+
+## 💻 DOZEDEV.PT
+
+---
+
+A **DOZEDEV.PT** é uma marca focada em desenvolvimento web moderno, criação de websites profissionais e soluções digitais personalizadas para empresas e projetos independentes.
+
+## ⚡ Destaques
+
+* **Websites Responsivos:** Projetos adaptados para qualquer dispositivo.
+* **Design Moderno:** Interfaces premium com foco em experiência do utilizador.
+* **Integração com APIs:** Sistemas conectados com Supabase, Formspree e automações.
+* **Painéis Administrativos:** Gestão de clientes, briefings e uploads.
+* **SEO e Performance:** Estruturas otimizadas para velocidade e indexação.
+
+## 🛠️ Tecnologias Utilizadas
+
+* HTML5 / CSS3
+* JavaScript (Vanilla)
+* Supabase
+* GitHub
+* APIs e Webhooks
+* UI/UX Responsivo
+
+## 👨‍💻 Autor
+
+Angelo Santos
+Criador da DOZEDEV.PT
+
+
 ---
 
 ### 📊 Estatísticas e Atividade
@@ -125,6 +201,7 @@ O website oficial da **Bella Pizza**, criado para transmitir a essência da verd
 - 📍 Localização: Aveiro, Portugal
 - 💻 [LinkedIn](https://www.linkedin.com/in/angelo-santos-45680621/)
 - ✉️ Email: angelo_rsantos@hotmail.com
+- 💻 Site: www.dozedev.pt
 
 ---
 <p align="center">
